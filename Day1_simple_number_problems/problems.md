@@ -53,11 +53,11 @@
    * ✨ *Introduces arithmetic pattern generation.*
 
 
-   Here’s a **well-designed Homework / Practice Challenge** set for **Day 1 – Simple Number Problems**, written in the same clean markdown format and aligned with the day’s learning goals 👇
+   Here’s a **well-designed Practice Challenge** set for **1 – Simple Number Problems**, written in the same clean markdown format and aligned with the day’s learning goals 👇
 
 ---
 
-### 🏠 **Homework / Practice Challenge**
+### 🏠 **Practice Challenge**
 
 1. **Print all numbers divisible by 3 and 5 up to N**
 
